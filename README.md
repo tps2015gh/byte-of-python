@@ -1,3 +1,15 @@
+# ทำไมถึงแปลหนังสือเล่มนี้
+
+"A Byte of Python" เป็นหนังสือที่ผมคิดว่า ง่าย กระชับ เหมาะสำหรับผู้เริ่มต้น และ ไม่ว่า Deep Learnning หรือ AI ก็ใช้ Python เป็นภาษาในการพัฒนา และแต่ก่อนผมใช้ Python ในการเขียนสคริปท์ในด้าน Information Security Tools และครั้งนี้ เพื่อให้ตัวเองเรียนรู้เป็นระบบ ด้วยเริ่มจากหนึ่งใหม่ และผมคิดว่า ยังมีคนอื่นที่เหมือนกับผม ต้องการหนังสือเรียนรู้ Python ที่ดีสักเล่มหนึ่ง
+
+- จะเริ่มแปล 'วิธีการแปลหนังสือเล่มนี้' ผมจะเพิ่มวิธีการ [fork the repository](https://help.github.com/articles/fork-a-repo) และการใช้ Git Desktop กับ Markdown Editor ใน Windows และ MacOS   [translation_howto.md](https://github.com/gsong2014/byte-of-python/blob/master/translations.md)
+
+
+ถ้ามีที่ไหนแปลไม่ถูกหรือใช้ภาษาไม่ถูกต้อง ผมต้องขอโทษด้วย และ คุณสามารถ [pull request](https://help.github.com/articles/about-pull-requests/) มาให้ผมได้ หรือ ส่ง e-mail [Gsong Xiang](mailto:gsong2014@foxmail.com)
+
+
+
+
 # A Byte of Python
 
 "A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.
