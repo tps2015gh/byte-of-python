@@ -4,10 +4,10 @@
 
 1. สามารถดาวน์โหลดหนังสือต้นฉบับได้ที่ {{ book.sourceUrl }} หรือ สมัคร account github แล้วทำการ fork the repository.
 2. วิธีการ [fork the repository](https://help.github.com/articles/fork-a-repo).
-3. Then, fetch the repository to your computer. You need to know how to use [Git](http://www.git-scm.com) to do that.
-4. Read the [GitBook documentation](https://help.gitbook.com), esp. the [Markdown section](https://help.gitbook.com/format/markdown.html).
-5. Start editing the `.md` files to translate to your local language.
-6. [Sign up on GitBook.com](https://www.gitbook.com), create a book and you can see a beautifully rendered website, with links to download PDF, EPUB, etc.
+3. หลังจาก [fetch the repository](https://help.github.com/articles/fetching-a-remote/) ลงในเครื่องของท่าน คุณต้องการรู้วิธีการทำ ด้วยใช้ [Git](http://www.git-scm.com) ในขั้นตอนนี้
+4. อ่าน [GitBook documentation](https://toolchain.gitbook.com/), ในหมวด [Markdown section](https://toolchain.gitbook.com/syntax/markdown.html).
+5. เริ่มแก้ไขไฟล์ `.md` แล้วทำการแปลภาษาตามที่คุณอยากได้.
+6. สมัครสมาชิก [GitBook.com](https://www.gitbook.com), สร้างหนังสือเล่มหนึ่ง หลังจากนั้นคุณจะได้เห็นหน้าเว็บที่สวยงาม รวมทั้งสามารถดาวน์โหลด PDF, EPUB, และอื่นๆ
 
 
 
@@ -15,7 +15,7 @@
 
 เมื่อเราสมัคร account github แล้วเราจะต้อง [fetch the repository](https://help.github.com/articles/fetching-a-remote/) มาใน Local แล้วจะสามารถทำการแปลได้ และสามารถ [commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) หรือ เรียกว่า อัปเดตขี้น github ปกติสามารถใช้คำสั่ง `git` ทำได้ทั้งหมด แต่ในที่ผมขี้เกียจ ก็เลยใช้ Git Desktop Client แทน
 
-ปกติผมใช้ [SmartGit](http://www.syntevo.com/smartgit) หรือแต่ก่อนใช้ [GitHub Desktop](https://desktop.github.com/) ในที่นี่ ผมจะใช้ SmartGit เป็นตัวอย่าง
+ปกติผมใช้ [SmartGit](http://www.syntevo.com/smartgit) หรือแต่ก่อนใช้ [GitHub Desktop](https://desktop.github.com/) ในที่นี่ จะใช้ SmartGit เป็นตัวอย่าง
 
 สามารถดาวน์โหลด SmartGit ได้ที่ [http://www.syntevo.com/smartgit/download](http://www.syntevo.com/smartgit/download) :
 
@@ -36,3 +36,13 @@
 ตอนนี้เราสามารถ commit ได้แล้ว ด้วยกดปุ่ม `Commit` เลือกไฟล์ที่จะ update แล้วกดปุ่ม `Commit & Push`:
 
 ![commit github](./img/smartgit_commit.png)
+
+## Markdown Editor
+
+ใน Windows สามารถใช้ [MarkdownPad](http://markdownpad.com/):
+
+![markdownpad](./img/markdownpad.png)
+
+MacOS ผมใช้ [MacDown](https://macdown.uranusjr.com/):
+
+![macdown](./img/macdown_on_macos.png)
